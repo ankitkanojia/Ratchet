@@ -7,6 +7,11 @@
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
     </author>
+     <preference name="StatusBarOverlaysWebView" value="false"/>
+
+<preference name="StatusBarBackgroundColor" value="#D00000"/>
+
+<preference name="StatusBarStyle" value="lightcontent" />
     <preference name="permissions" value="none" />
     <preference name="phonegap-version" value="3.5.0" />
     <preference name="orientation" value="default" />

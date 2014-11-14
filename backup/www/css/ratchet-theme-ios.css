@@ -123,10 +123,10 @@ p {
           box-shadow: 0 0 1px rgba(0, 0, 0, .85);
 }
 .bar.bar-header-secondary {
-  top: 44px;
+  top: 65px;
 }
 .bar.bar-footer-secondary {
-  bottom: 44px;
+  bottom: 65px;
 }
 .bar.bar-footer-secondary-tab {
   bottom: 50px;
